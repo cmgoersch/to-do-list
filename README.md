@@ -56,3 +56,10 @@ Add a **done** `<button>` (it could have an icon of a checkmark) for each todo e
 
 
 [//]: # (autograding info end)
+
+
+
+um Tailwind laufen zu lassen im watch Modus
+
+npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+
