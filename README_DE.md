@@ -23,3 +23,7 @@ Schreibe deine Lösung in [index.html](./index.html), [js/main.js](./js/main.js)
 ## Bonus Aufgabe
 
 Füge für jeden todo-Eintrag einen **done** `<button>` hinzu (es könnte ein Icon eines Häkchens haben), der einen Durchstreich-Effekt auf den Text des todo-Eintrags umschaltet.
+
+
+npx tailwindcss -i ./css/input.css -o ./css/output.css --watch
+
