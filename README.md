@@ -14,4 +14,4 @@ Dieses Projekt ist eine **einfache To-Do Liste**, die im Rahmen der **DCI** als 
 - **JavaScript (DOM-Manipulation)**
 
 ## 📸 Vorschau
-![alt text](image.png)
+![alt text](image-1.png)
